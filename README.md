@@ -126,4 +126,4 @@ aws sagemaker delete-model --model-name <ENDPOINT_NAME>
 
 ## License
 
-This project is provided as an example and is available under the MIT License.
+This project is provided as an example and is available under the Apache 2.0 License
